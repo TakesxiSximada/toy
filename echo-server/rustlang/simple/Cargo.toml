@@ -1,0 +1,7 @@
+[package]
+name = "simple"
+version = "0.1.0"
+authors = ["TakesxiSximada <takesxi.sximada@gmail.com>"]
+
+[dependencies]
+clap = "2.20.3"
